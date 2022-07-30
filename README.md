@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 ### Running 
 
-2. Navigate inside the "Home-Credit-Default-Risk" folder and Run  
+2. Navigate inside the "Credit-Scoring-HomeCredit" folder and Run  
 
 ```
 jupyter notebook
@@ -30,7 +30,7 @@ jupyter notebook
 
 ## Running the notebook
 
-Navigate inside the "Model Building" folder and launch the notebook & to run cells do:
+Navigate inside the "notebooks" folder and launch the notebook & to run cells do:
 
 ```
 Shift + Enter

@@ -1,5 +1,5 @@
 # Credit-Scoring-HomeCredit
-Final Project of Rakamin Virtual Internship Experience - Predicting whether a loan will be repaid with or withour difficulty
+Final Project of Rakamin Virtual Internship Experience - Predicting whether a loan will be repaid with or without difficulty
 
 The objective is to use historical loan application data to predict whether or not a loan will be repaid. This is a standard supervised classification task:
 
